@@ -5,6 +5,7 @@ class RightSideWidget extends StatelessWidget {
     return Container(
       width: 300,
       height: double.infinity,
+      
       color: Colors.blueGrey,
     );
   }
